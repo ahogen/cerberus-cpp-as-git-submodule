@@ -1,0 +1,6 @@
+[submodule "external/yaml-cpp"]
+	path = external/yaml-cpp
+	url = https://github.com/jbeder/yaml-cpp.git
+[submodule "external/cerberus-cpp"]
+	path = external/cerberus-cpp
+	url = git@github.com:ahogen/cerberus-cpp.git
